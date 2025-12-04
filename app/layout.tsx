@@ -8,8 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ConsultKing - Consulting for Every Business",
-  description: "Professional business consulting services for growth and success",
+  title: "EvoWaste",
   generator: "v0.app",
   icons: {
     icon: [
