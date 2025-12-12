@@ -60,7 +60,7 @@ export default function Mission({ title, description, buttonText = "Lihat Detail
     <p className="text-gray-100 text-xl mb-10 max-w-2xl mx-auto leading-relaxed" data-aos="fade-up" data-aos-delay={100}>
       {description}
     </p>
-    <Button
+    {/* <Button
       className="text-white px-8 py-3 text-base font-semibold"
       style={{ backgroundColor: "#84AE92" }}
       onMouseEnter={e => (e.currentTarget.style.backgroundColor = "#6f977a")}
@@ -69,7 +69,7 @@ export default function Mission({ title, description, buttonText = "Lihat Detail
       data-aos-delay={200}
     >
       {buttonText}
-    </Button>
+    </Button> */}
   </div>
 </section>
 
