@@ -26,7 +26,7 @@ export default function Mission({ title, description, buttonText = "Lihat Detail
     <section
   className="py-32 text-white text-center relative overflow-hidden"
   style={{
-    backgroundImage: "url('/6.jpg')", // ganti dengan path gambarmu
+    backgroundImage: "url('/6.JPG')", // ganti dengan path gambarmu
     backgroundSize: "cover",
     backgroundPosition: "center",
   }}
