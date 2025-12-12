@@ -64,7 +64,7 @@ export default function Leadership() {
               <p className="text-sm font-bold">Hubungi HRD: +62 813 8905 9343</p>
             </div>
 
-            <Button
+            {/* <Button
               className="px-8 py-3 text-base font-semibold text-white"
               style={{ backgroundColor: primaryGreen }}
               onMouseEnter={e => (e.currentTarget.style.backgroundColor = "#6f977a")}
@@ -73,7 +73,7 @@ export default function Leadership() {
               data-aos-delay="400"
             >
               Pelajari Layanan
-            </Button>
+            </Button> */}
           </div>
         </div>
       </div>
