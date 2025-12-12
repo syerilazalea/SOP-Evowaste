@@ -61,7 +61,7 @@ export default function Leadership() {
               <p className="text-sm mb-4 text-green-50">
                 Memastikan setiap karyawan memahami alur kerja, SOP, dan prosedur keselamatan untuk mendukung produktivitas perusahaan.
               </p>
-              <p className="text-sm font-bold">Hubungi HRD: +91 6379-0245</p>
+              <p className="text-sm font-bold">Hubungi HRD: +62 813 8905 9343</p>
             </div>
 
             <Button
