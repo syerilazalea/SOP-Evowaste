@@ -90,13 +90,13 @@ export default function Header() {
 
         {mobileDropdownOpen && (
           <div className="mt-2 ml-4 space-y-2">
-            <Link href="/sop/operasional-inti" className="block text-white hover:bg-[#6f977a] px-2 py-1 rounded-md">
+            <Link href="/sop/sop-operasional" className="block text-white hover:bg-[#6f977a] px-2 py-1 rounded-md">
               Operasional Inti
             </Link>
-            <Link href="/sop/alat-dan-mesin" className="block text-white hover:bg-[#6f977a] px-2 py-1 rounded-md">
+            <Link href="/sop/sop-alat" className="block text-white hover:bg-[#6f977a] px-2 py-1 rounded-md">
               Alat dan Mesin
             </Link>
-            <Link href="/sop/k3-penunjang" className="block text-white hover:bg-[#6f977a] px-2 py-1 rounded-md">
+            <Link href="/sop/sop-k3" className="block text-white hover:bg-[#6f977a] px-2 py-1 rounded-md">
               K3 Penunjang
             </Link>
           </div>
